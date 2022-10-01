@@ -8524,18 +8524,18 @@
         },
         {
           "id": 1066,
-          "title": "Smoky Joe Grilled Game Feast | Recipe | BBQ Pit Boys",
-          "url": "https://www.youtube.com/watch?v=foz8kDOWcSQ",
-          "duration": "8:18",
-          "uploaddate": "2022/07/12",
-          "uploadid": 0
-        },
-        {
-          "id": 1066,
           "title": "Bloody Mary on Steroids | Recipe | BBQ Pit Boys #shorts",
           "url": "https://www.youtube.com/watch?v=6co8yJdMzn8",
           "duration": "59",
           "uploaddate": "2022/07/09",
+          "uploadid": 0
+        },
+        {
+          "id": 1066,
+          "title": "Smoky Joe Grilled Game Feast | Recipe | BBQ Pit Boys",
+          "url": "https://www.youtube.com/watch?v=foz8kDOWcSQ",
+          "duration": "8:18",
+          "uploaddate": "2022/07/12",
           "uploadid": 0
         },
         {
@@ -8712,6 +8712,14 @@
           "url": "https://www.youtube.com/watch?v=D7_cRgZSBpo",
           "duration": "5:6",
           "uploaddate": "2022/09/24",
+          "uploadid": 0
+        },
+        {
+          "id": 1089,
+          "title": "BEEF CHEEK TACOS | Recipe | BBQ Pit Boys",
+          "url": "https://www.youtube.com/watch?v=GxQQ5ii5CCk",
+          "duration": "3:43",
+          "uploaddate": "2022/09/30",
           "uploadid": 0
         }
       ]
@@ -31313,6 +31321,14 @@
           "duration": "11:59",
           "uploaddate": "2022/09/29",
           "uploadid": 4
+        },
+        {
+          "id": 371,
+          "title": "【マヨチャー丼】自分を大蛇丸と信じて止まない一般男性が優勝する動画です。",
+          "url": "https://www.youtube.com/watch?v=TlnPobFPVGo",
+          "duration": "2:21",
+          "uploaddate": "2022/10/01",
+          "uploadid": 4
         }
       ]
     },
@@ -45724,6 +45740,14 @@
           "url": "https://www.youtube.com/watch?v=QQa6NnPO9zs",
           "duration": "12:40",
           "uploaddate": "2022/09/29",
+          "uploadid": 7
+        },
+        {
+          "id": 1083,
+          "title": "手羽先を使って魯肉飯（ルーローハン）風にしたい。そんな調理動画はいかが？ Stewed chicken wings",
+          "url": "https://www.youtube.com/watch?v=fOcTlZppghU",
+          "duration": "8:24",
+          "uploaddate": "2022/09/30",
           "uploadid": 7
         }
       ]
